@@ -1,6 +1,6 @@
-#Jeremy's First CS193 Lab
+# Jeremy's First CS193 Lab
 
-##Favorite Things about CS193
+## Favorite Things about CS193
 
 - It's new (since I've only technically been here for one minute)
 - It's exciting (see above)
