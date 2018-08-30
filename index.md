@@ -1,3 +1,11 @@
+#Jeremy's First CS193 Lab
+
+##Favorite Things about CS193
+
+- It's new (since I've only technically been here for one minute)
+- It's exciting (see above)
+- I'm using _github_
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
